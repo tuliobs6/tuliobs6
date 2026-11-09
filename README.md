@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=T%C3%BAlio%20Barbosa%20Silva&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Engenharia%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Túlio Barbosa Silva" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Aprendendo+Python;Aprendendo+JavaScript;Dando+os+primeiros+passos+em+HTML" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Aprendendo+Python;Aprendendo+JavaScript;Aprendendo+HTML" alt="Typing animation" />
 </a>
 
 </div>
@@ -12,14 +12,14 @@
 
 ## `> sobre mim`
 
-Oi, eu sou o **Túlio**. Atuo na área de **Engenharia de Software** e estou construindo minha base com **Python**, **JavaScript** e **HTML**.
+Oi, eu sou o **Túlio**. Atuo na área de **Engenharia de Software** e estou aprendendo **Python**, **JavaScript** e **HTML**.
 
 Ainda estou no começo da jornada, e este perfil vai crescer junto comigo, um commit de cada vez.
 
 ```text
 nome     → Túlio Barbosa Silva
 área     → Engenharia de Software
-fase     → construindo a base
+fase     → aprendendo Python, JavaScript e HTML
 contato  → Instagram: @tulio.bs6
 ```
 
