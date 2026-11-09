@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Aprendendo+Python;Aprendendo+JavaScript;Dando+os+primeiros+passos+em+HTML" alt="Typing animation" />
 </a>
 
-<br/>
-
-![Perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&label=visitas&color=000000&style=flat-square)
-
 </div>
 
 ---
