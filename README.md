@@ -1,122 +1,104 @@
+<!-- BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=T%C3%BAlio%20Barbosa%20Silva&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Engenharia%20de%20Software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Túlio Barbosa Silva" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Túlio%20Barbosa%20Silva&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software&descSize=18&descAlignY=58&descColor=bdbdbd" alt="Banner" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Engenharia+de+Software;Aprendendo+Python;Aprendendo+JavaScript;Aprendendo+HTML" alt="Typing animation" />
+<!-- TYPING -->
+<a href="https://github.com/tuliobs6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+o+Túlio+👋;Engenharia+de+Software;Python+%C2%B7+HTML+%C2%B7+JavaScript;Aprendendo+e+construindo+todo+dia" alt="Typing animation" />
+</a>
+
+<br/>
+
+![Perfil](https://komarev.com/ghpvc/?username=tuliobs6&label=visitas&color=000000&style=flat-square)
+
+</div>
+
+---
+
+## ▍ Sobre mim
+
+Sou **Túlio Barbosa Silva** e atuo na área de **Engenharia de Software**.
+Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar onde reúno o que estou construindo e aprendendo.
+
+> *Código limpo, ideias simples e evolução constante.*
+
+---
+
+## ▍ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,js&theme=dark" alt="Tecnologias" />
+
+</div>
+
+---
+
+## ▍ Projetos
+
+<div align="center">
+
+<a href="https://github.com/tuliobs6/game-de-adivinha-o">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuliobs6&repo=game-de-adivinha-o&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Game de Adivinhação" />
 </a>
 
 </div>
 
----
-
-## `> sobre mim`
-
-Oi, eu sou o **Túlio**. Atuo na área de **Engenharia de Software** e estou aprendendo **Python**, **JavaScript** e **HTML**.
-
-Ainda estou no começo da jornada, e este perfil vai crescer junto comigo, um commit de cada vez.
-
-```text
-nome     → Túlio Barbosa Silva
-área     → Engenharia de Software
-fase     → aprendendo Python, JavaScript e HTML
-contato  → Instagram: @tulio.bs6
-```
+<div align="center">
+  <sub>Mais projetos em breve em <a href="https://github.com/tuliobs6?tab=repositories">meus repositórios</a>.</sub>
+</div>
 
 ---
 
-## `> tecnologias`
+## ▍ Estatísticas do GitHub
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python_básico-ffffff?style=for-the-badge&logo=python&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript_básico-ffffff?style=for-the-badge&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML_básico-ffffff?style=for-the-badge&logo=html5&logoColor=000000)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tuliobs6&show_icons=true&hide_border=false&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliobs6&layout=compact&title_color=ffffff&text_color=bdbdbd&bg_color=000000&border_color=30363d" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=tuliobs6&background=000000&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## `> projetos`
-
-<div align="center">
-
-![Em breve](https://img.shields.io/badge/primeiro_projeto-em_constru%C3%A7%C3%A3o-000000?style=for-the-badge&labelColor=ffffff&color=000000)
-
-<sub>Ainda não tenho projetos publicados. Quando o primeiro sair, ele aparece aqui.</sub>
-
-</div>
-
----
-
-## `> estatísticas`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&border_radius=10" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&border_radius=10" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&background=000000&border=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=999999&stroke=333333&hide_border=false&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
----
-
-## `> atividade`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-## `> troféus`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## `> snake`
+## ▍ Contribuições
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake.svg" />
-  <img alt="Snake contribution" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuliobs6/tuliobs6/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuliobs6/tuliobs6/output/github-snake.svg" />
+  <img alt="Snake de contribuições" src="https://raw.githubusercontent.com/tuliobs6/tuliobs6/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## `> redes`
+## ▍ Vamos conversar
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/t%C3%BAlio-barbosa-013b7742b">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/tulio.bs6">
-  <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/tuliobs6">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
-<br/>
-
+<!-- RODAPÉ -->
 <div align="center">
 
-<sub>feito com calma, por <b>Túlio Barbosa Silva</b></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" width="100%" alt="Rodapé" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer&text=feito%20com%20café%20e%20código&fontSize=16&fontColor=bdbdbd&fontAlignY=70" alt="Rodapé" width="100%"/>
 
 </div>
