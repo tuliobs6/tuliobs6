@@ -3,11 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=220&section=header&text=Túlio%20Barbosa%20Silva&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software&descSize=18&descAlignY=58&descColor=bdbdbd" alt="Banner" width="100%"/>
 
-<!-- TYPING -->
-<a href="https://github.com/tuliobs6">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Olá%2C+eu+sou+o+Túlio+👋;Engenharia+de+Software;Python+%C2%B7+HTML+%C2%B7+JavaScript;Aprendendo+e+construindo+todo+dia" alt="Typing animation" />
-</a>
-
 <br/>
 
 ![Perfil](https://komarev.com/ghpvc/?username=tuliobs6&label=visitas&color=000000&style=flat-square)
