@@ -2,17 +2,28 @@ name: Profile Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v2
+      - uses: actions/checkout@v4
+
+      - name: Gerar cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/generate_cards.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "Atualiza cards do perfil"
+          git push
