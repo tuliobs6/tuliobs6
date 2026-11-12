@@ -39,7 +39,7 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 <div align="center">
 
 <a href="https://github.com/tuliobs6/game-de-adivinha-o">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuliobs6&repo=game-de-adivinha-o&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d" alt="Game de Adivinhação" />
+  <img src="assets/projeto-adivinhacao.svg" alt="Jogo de Adivinhação" width="420" />
 </a>
 
 <br/><br/>
@@ -56,8 +56,8 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tuliobs6&show_icons=true&hide_border=false&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliobs6&layout=compact&title_color=ffffff&text_color=bdbdbd&bg_color=000000&border_color=30363d" alt="Top Languages" />
+<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
