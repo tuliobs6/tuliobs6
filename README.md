@@ -54,10 +54,12 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 
 ## ▍ Estatísticas do GitHub
 
+## ▍ Estatísticas do GitHub
+
 <div align="center">
 
-<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
+<img src="assets/stats.svg" alt="GitHub Stats" width="48%" />
+<img src="assets/langs.svg" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
@@ -65,10 +67,9 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuliobs6&bg_color=000000&color=bdbdbd&line=ffffff&point=ffffff&area=true&area_color=2b2b2b&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="assets/activity.svg" alt="Activity Graph" width="100%" />
 
 </div>
-
 ---
 
 ## ▍ Contribuições
