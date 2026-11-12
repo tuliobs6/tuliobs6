@@ -5,7 +5,11 @@
 
 <br/>
 
-![Perfil](https://komarev.com/ghpvc/?username=tuliobs6&label=visitas&color=000000&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=BDBDBD&center=true&vCenter=true&width=480&lines=Engenharia+de+Software;Python+%7C+HTML+%7C+JavaScript;Aprendendo+e+construindo+todo+dia" alt="Typing animation" />
+
+<br/>
+
+![Visitas](https://komarev.com/ghpvc/?username=tuliobs6&label=visitas&color=000000&style=flat-square)
 
 </div>
 
@@ -35,13 +39,15 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 <div align="center">
 
 <a href="https://github.com/tuliobs6/game-de-adivinha-o">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuliobs6&repo=game-de-adivinha-o&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d&hide_border=false" alt="Game de Adivinhação" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuliobs6&repo=game-de-adivinha-o&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&bg_color=000000&border_color=30363d" alt="Game de Adivinhação" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <sub>Mais projetos em breve em <a href="https://github.com/tuliobs6?tab=repositories">meus repositórios</a>.</sub>
+<a href="https://github.com/tuliobs6?tab=repositories">
+  <img src="https://img.shields.io/badge/VER%20TODOS%20OS%20REPOSIT%C3%93RIOS-000000?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" />
+</a>
+
 </div>
 
 ---
@@ -56,6 +62,10 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=tuliobs6&background=000000&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=8B949E" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuliobs6&bg_color=000000&color=bdbdbd&line=ffffff&point=ffffff&area=true&area_color=2b2b2b&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -91,9 +101,9 @@ Trabalho com **Python**, **HTML** e **JavaScript**, e este perfil é o lugar ond
 
 </div>
 
-<!-- RODAPÉ -->
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer&text=feito%20com%20café%20e%20código&fontSize=16&fontColor=bdbdbd&fontAlignY=70" alt="Rodapé" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=120&section=footer&text=Obrigado%20pela%20visita&fontSize=18&fontColor=bdbdbd&fontAlignY=70" alt="Rodapé" width="100%"/>
 
 </div>
